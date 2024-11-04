@@ -7,7 +7,7 @@ function App() {
 		<>
 			<Header />
 			<SurveyForm />
-			<SurveyResults />
+			{/* <SurveyResults /> */}
 		</>
 	);
 }
